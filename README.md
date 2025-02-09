@@ -1,5 +1,5 @@
 # iNotebook
-## iNotebook is a modern, secure, and user-friendly note-taking application developed using MERN stack technologies.
+## iNotebook is a modern, secure, and user-friendly note-taking application developed using MERN stack technologies along with Bootstrap.
 
 ## Some key features:
 
