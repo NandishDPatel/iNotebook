@@ -10,7 +10,6 @@
 - Enhanced security through password hashing with Salt before storage in MongoDB
 - Responsive design for a great experience on both desktop and mobile devices
 
-
 ## Project Photos
 - Login page
 - ![Login Page](public/images/login-page.png)
@@ -100,4 +99,12 @@ The website should now be running locally and accessible at `http://localhost:50
   ```
   
 - For first 3 variable you can create a database inside the mongodb and then just fill those things using username, password and database name.
-- You can give any random string for the JWT_SECRET. 
+- You can give any random string for the JWT_SECRET.
+
+## Learning Outcomes
+- Deepened understanding of React.js concepts including states, hooks, props, and component lifecycle
+- Gained practical experience with React Router for seamless navigation in single-page applications
+- Implemented user authentication and authorization using JWT, enhancing application security
+- Learned about password hashing and salting techniques to protect user data
+- Improved skills in full-stack development, connecting frontend React with a Node.js/Express backend
+- Practiced working with MongoDB, a popular NoSQL database, for efficient data storage and retrieval 
