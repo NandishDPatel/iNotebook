@@ -1,5 +1,5 @@
 # iNotebook
-- iNotebook is a modern, secure, and user-friendly note-taking application designed to help you organize your thoughts, ideas, and important information efficiently. Here are some key features:
+## iNotebook is a modern, secure, and user-friendly note-taking application designed to help you organize your thoughts, ideas, and important information efficiently. Here are some key features:
 
 - A simple and intuitive interface for seamless note-taking
 - Built using the powerful MERN stack (MongoDB, Express.js, React, Node.js) and styled with Bootstrap
